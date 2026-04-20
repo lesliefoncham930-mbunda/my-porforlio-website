@@ -79,9 +79,9 @@ This portfolio reflects my hands-on experience and continuous learning in the Io
 
 ## 📫 Contact
 
-- Email: [your.email@savonia.fi or personal email]  
-- LinkedIn: [linkedin.com/in/leslie-mbunda](#)  
-- GitHub: [github.com/yourusername](#)  
+- Email: [lesliefoncham930@gmail.com]  
+- LinkedIn: [linkedin.com/in/foncham-leslie]  
+- GitHub: [github.com/lesliefoncham930-mbunda]  
 
 ---
 
