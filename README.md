@@ -1,5 +1,4 @@
 # my-porforlio-website
-Here’s a professional and clean README template tailored for your portfolio website.
 
 ---
 
