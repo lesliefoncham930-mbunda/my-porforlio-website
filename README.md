@@ -13,8 +13,7 @@ This website showcases my academic background, IoT projects, technical skills, a
 
 ## 🔗 Live Website
 
-> *[Insert your live website URL here, e.g., lesliembunda.com or GitHub Pages link]*
-
+https://github.com/lesliefoncham930-mbunda/my-porforlio
 ---
 
 ## 🧑‍💻 About Me
@@ -80,7 +79,7 @@ This portfolio reflects my hands-on experience and continuous learning in the Io
 
 - Email: [lesliefoncham930@gmail.com]  
 - LinkedIn: [linkedin.com/in/foncham-leslie]  
-- GitHub: [github.com/lesliefoncham930-mbunda]  
+- GitHub: [https://github.com/lesliefoncham930-mbunda/]  
 
 ---
 
